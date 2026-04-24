@@ -143,3 +143,8 @@ input, textarea{
     text-align:center;
   }
 }
+@media(max-width:768px){
+  .hero-img{
+    width:280px;
+  }
+}
