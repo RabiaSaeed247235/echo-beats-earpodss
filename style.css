@@ -16,3 +16,9 @@ body{
   gap:20px;
   list-style:none;
 }
+.hero{
+  display:flex;
+  justify-content:space-around;
+  align-items:center;
+  height:100vh;
+}
