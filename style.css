@@ -117,3 +117,6 @@ footer{
 .about-media img{
   max-width:400px;
 }
+.testimonials{
+  gap:20px;
+}
