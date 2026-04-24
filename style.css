@@ -111,3 +111,6 @@ footer{
 .features-grid{
   gap:25px;
 }
+.feature-card{
+  background:#fff;
+}
