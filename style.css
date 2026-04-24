@@ -148,3 +148,6 @@ input, textarea{
     width:280px;
   }
 }
+body{
+  overflow-x:hidden;
+}
