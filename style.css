@@ -85,3 +85,7 @@ section div div:hover{
 .product img{
   width:100%;
 }
+input{
+  padding:10px;
+  margin:10px;
+}
