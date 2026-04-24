@@ -78,3 +78,7 @@ section div div{
 section div div:hover{
   transform:translateY(-5px);
 }
+.product{
+  border:1px solid #ddd;
+  padding:15px;
+}
