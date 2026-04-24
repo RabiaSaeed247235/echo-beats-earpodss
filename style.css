@@ -46,3 +46,6 @@ section div{
 .hero p{
   color:#555;
 }
+.hero{
+  background: linear-gradient(135deg,#f5f0e6,#e8dccb);
+}
