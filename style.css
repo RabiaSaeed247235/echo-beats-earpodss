@@ -114,3 +114,6 @@ footer{
 .feature-card{
   background:#fff;
 }
+.about-media img{
+  max-width:400px;
+}
