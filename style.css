@@ -64,3 +64,8 @@ section div{
 .b1{top:20%; left:-40px;}
 .b2{top:50%; right:-40px;}
 .b3{bottom:10%; left:20px;}
+section div{
+  display:grid;
+  grid-template-columns:repeat(3,1fr);
+  gap:20px;
+}
