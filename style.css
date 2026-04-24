@@ -132,3 +132,6 @@ footer{
 input, textarea{
   font-size:14px;
 }
+.footer{
+  text-align:center;
+}
