@@ -69,3 +69,9 @@ section div{
   grid-template-columns:repeat(3,1fr);
   gap:20px;
 }
+section div div{
+  padding:20px;
+  background:#fff;
+  border-radius:10px;
+  text-align:center;
+}
