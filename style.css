@@ -108,3 +108,6 @@ footer{
 .hero-text p{
   opacity:0.9;
 }
+.features-grid{
+  gap:25px;
+}
