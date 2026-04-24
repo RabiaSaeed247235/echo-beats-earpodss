@@ -95,3 +95,7 @@ footer{
   text-align:center;
   padding:20px;
 }
+.hero{
+  justify-content:space-between;
+  align-items:center;
+}
