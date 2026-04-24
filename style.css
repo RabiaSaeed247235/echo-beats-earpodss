@@ -138,3 +138,8 @@ input, textarea{
 .socials i{
   transition:0.3s;
 }
+@media(max-width:768px){
+  .hero-text{
+    text-align:center;
+  }
+}
