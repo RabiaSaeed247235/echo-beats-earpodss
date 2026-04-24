@@ -102,3 +102,6 @@ footer{
 .hero-img{
   width:420px;
 }
+.bubble{
+  transform:scale(1);
+}
