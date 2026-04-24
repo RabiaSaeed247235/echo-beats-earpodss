@@ -123,3 +123,6 @@ footer{
 .product-grid{
   gap:35px;
 }
+.product-card img{
+  border-radius:12px;
+}
