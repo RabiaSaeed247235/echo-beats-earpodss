@@ -129,3 +129,6 @@ footer{
 .contact-container{
   border-radius:25px;
 }
+input, textarea{
+  font-size:14px;
+}
