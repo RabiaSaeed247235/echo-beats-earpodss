@@ -105,3 +105,6 @@ footer{
 .bubble{
   transform:scale(1);
 }
+.hero-text p{
+  opacity:0.9;
+}
